@@ -12,4 +12,11 @@ Det är som att gå uppför trappor, man planerar i första hand, genomför bygg
 
 Resultatet kommer först när allt är klart. Man kan inte göra uppdatera små delar under tiden, appen förblir som den var vid lansering. 
 
-Nackdelen blir att appen kännsvgammal eller ointressant blir det svårt att anpassa eller uppdatera den. Risken blir att användare slutar använda appen.  
+Nackdelen blir att appen känns gammal eller ointressant och det blir svårt att anpassa eller uppdatera den. Risken blir att användare slutar använda appen.  
+
+## fråga 2 Vad är Git - commit och varför är det viktigt? 
+Git- commit är när man skapar filer och gör en ändring. Då ska man markera/beskriva ändringen, som jag gjorde till exempel. Jag råkade spara en README- fil men ändra till svar-md och beskrev att jag bytte namn. Då ser man tydligt att jag har fixat ett problem.
+Git - commit är en sparpunkt i koden man kan alltid gå tillbaka till en tidigare version. Det är också ett sätt att överblicka problemet, justera, markera och samarbeta med andra utan att mixa ihop koden. 
+
+## fråga 3 Vad innebär samarbete med GitHub? Vad är pull requests, branches och merge?
+Github = samarbete på ett smidigt sätt. Det är en enkel väg att samrbete med andra. Alla i gruppen har insyn i vad som görs och kan se justeringar och ändringar. Exempel : om jag får en gruppupggfit att skapa en app  kan jag bygga på ena sidan av appen medan mina klasskompisar bygger på den andra sidan. Vi stör inte varandra och sedan kan vi slå ihop allt med hjälp av GitHub. 
